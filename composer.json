@@ -1,0 +1,22 @@
+{
+    "name": "gaiterjones/module-productreviews",
+    "description": "",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "modules@gaiterjones.com",
+            "name": "PAJ"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gaiterjones\\ProductReviews\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
