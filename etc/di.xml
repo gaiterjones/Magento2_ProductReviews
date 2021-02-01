@@ -9,4 +9,7 @@
 	<type name="Magento\Review\Block\Product\View">
 		<plugin disabled="false" name="Gaiterjones_ProductReviews_Plugin_Magento_Block_Product_View" sortOrder="30" type="Gaiterjones\ProductReviews\Plugin\Magento\Review\Block\Product\View"/>
 	</type>
+	<type name="Magento\Review\Block\Product\Review">
+		<plugin disabled="false" name="Gaiterjones_ProductReviews_Plugin_Magento_Block_Product_Review" sortOrder="40" type="Gaiterjones\ProductReviews\Plugin\Magento\Review\Block\Product\Review"/>
+	</type>
 </config>
