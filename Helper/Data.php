@@ -61,6 +61,6 @@ class Data
 
          }
 
-         return null;
+         return '0';
      }
 }
